@@ -6,5 +6,9 @@ This project is still in beta!
 
 Type in the cmd/terminal
 ```
-npm i gydo
+npm i landlcopley@gmail.com
 ```
+
+# Have questions?
+Join our Discord server!
+https://discord.gg/8nE6BRSuS7
