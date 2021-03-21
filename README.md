@@ -6,7 +6,7 @@ This project is still in beta!
 
 Type in the cmd/terminal
 ```
-npm i landlcopley@gmail.com
+npm i @gamingroos/gydo-js
 ```
 
 # Have questions?
