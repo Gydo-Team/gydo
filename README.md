@@ -1,4 +1,4 @@
-# Gydo v0.1.1
+# Gydo v0.1.2
 
 This project is still in beta!
 
