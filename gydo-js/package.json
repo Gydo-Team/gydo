@@ -1,0 +1,42 @@
+{
+  "_from": "gydo-js@^0.1.2",
+  "_id": "gydo-js@0.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-ZmNsyn4Le7hCJhvjs6NztIjLgl2Sx06OQo05iXpsdQ1eKu1bmfaW0fLfBh74wTLloJc8V42fMy5w1XjE0z70rQ==",
+  "_location": "/gydo-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "gydo-js@^0.1.2",
+    "name": "gydo-js",
+    "escapedName": "gydo-js",
+    "rawSpec": "^0.1.2",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/",
+    "/gydo-js"
+  ],
+  "_resolved": "https://registry.npmjs.org/gydo-js/-/gydo-js-0.1.2.tgz",
+  "_shasum": "589cb8da797fe4e0ad219abb05d8d41d97dd74fa",
+  "_spec": "gydo-js@^0.1.2",
+  "_where": "C:\\Users\\Ethan\\Desktop\\test",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "gydo-js": "0.1.2"
+  },
+  "deprecated": false,
+  "description": "'gydo-js' is a form of discord.js designed to simplify the process of creating a Discord bot.",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "gydo-js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.2"
+}
