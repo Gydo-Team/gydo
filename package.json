@@ -1,11 +1,11 @@
 {
   "name": "@gamingroos/gydo-js",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "Our package \"gydo-js\" is to help aid Discord bot developers into making their bot with a simplified version of \"discord.js\". ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "gydo-js Development Team",
+  "author": "Gydo-JS Development Team",
   "license": "ISC"
 }
