@@ -6,7 +6,7 @@ This project is still in beta!
 
 Type in the cmd/terminal
 ```
-npm i @gamingroos/gydo-js
+npm i gydo-js
 ```
 
 # Have questions?
