@@ -1,34 +1,34 @@
 {
-  "_from": "gydo-js@^0.1.2",
-  "_id": "gydo-js@0.1.2",
+  "_from": "gydo-js@^0.1.6",
+  "_id": "gydo-js@0.1.7",
   "_inBundle": false,
-  "_integrity": "sha512-ZmNsyn4Le7hCJhvjs6NztIjLgl2Sx06OQo05iXpsdQ1eKu1bmfaW0fLfBh74wTLloJc8V42fMy5w1XjE0z70rQ==",
+  "_integrity": "sha512-n6uRqDk1vlsoWR1Qf/gfUeuT96ydQWo/j/Gge6YkBGIXYCR4KgSeue8raZaB9rRmopEu7JjndkZt/VYSr4LqFg==",
   "_location": "/gydo-js",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "gydo-js@^0.1.2",
+    "raw": "gydo-js@^0.1.6",
     "name": "gydo-js",
     "escapedName": "gydo-js",
-    "rawSpec": "^0.1.2",
+    "rawSpec": "^0.1.6",
     "saveSpec": null,
-    "fetchSpec": "^0.1.2"
+    "fetchSpec": "^0.1.6"
   },
   "_requiredBy": [
     "#USER",
     "/",
     "/gydo-js"
   ],
-  "_resolved": "https://registry.npmjs.org/gydo-js/-/gydo-js-0.1.2.tgz",
-  "_shasum": "589cb8da797fe4e0ad219abb05d8d41d97dd74fa",
-  "_spec": "gydo-js@^0.1.2",
+  "_resolved": "https://registry.npmjs.org/gydo-js/-/gydo-js-0.1.7.tgz",
+  "_shasum": "e596e099780f7e3cf3ff7702cfbb35af8d00bf32",
+  "_spec": "gydo-js@^0.1.6",
   "_where": "C:\\Users\\Ethan\\Desktop\\test",
   "author": "",
   "bundleDependencies": false,
   "dependencies": {
     "discord.js": "^12.5.1",
-    "gydo-js": "0.1.2"
+    "gydo-js": "0.1.7"
   },
   "deprecated": false,
   "description": "'gydo-js' is a form of discord.js designed to simplify the process of creating a Discord bot.",
@@ -38,5 +38,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.2"
+  "version": "0.1.7"
 }

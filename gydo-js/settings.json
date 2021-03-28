@@ -1,5 +1,14 @@
 {
     "prefix": "INPUT PREFIX",
     "token": "INPUT TOKEN", 
-    "ping": "no" 
+    "command1": {
+      "enabled": "no",
+      "message": "{author}, Pong my ping is {ping}ms",
+      "name": ""
+    },
+    "MemberLog" : {
+      "serverid": "guildID",
+      "memberleavejoin": "CHANNEL ID",
+      "JoinMessage": "Welcome {author} to **{server)**"
+    }
 }
