@@ -8,6 +8,8 @@ Type in the cmd/terminal
 `
 npm i gydo-js
 `
+## Documentation, and Change Logs
+https://gydo.gitbook.io/gydo-js/
 
 ## Have questions?
 Join our Discord server!
