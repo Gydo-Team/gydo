@@ -1,6 +1,6 @@
 # Gydo-JS v0.1.7
 
-This project is still in beta!
+This project is still in beta! So you might encounter some bugs! Please report the bugs on our discord server.
 
 ## How to Install Gydo-JS
 
