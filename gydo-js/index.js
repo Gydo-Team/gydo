@@ -27,7 +27,7 @@ try {
     } 
 } catch(err) {
   console.error('No setting file making one now')
-  let data = JSON.stringify(require('gydo-js-TEST/settings.json'), null, " ");   // '{\n "a": 2\n}));
+  let data = JSON.stringify(require('gydo-js/settings.json'), null, " ");   // '{\n "a": 2\n}));
  fs.writeFileSync(`setting.json`, data);
  process.kill(process.pid)
 }
