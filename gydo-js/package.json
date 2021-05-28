@@ -1,6 +1,6 @@
 {
-  "_from": "gydo-js@^0.1.6",
-  "_id": "gydo-js@0.1.7",
+  "_from": "gydo-js@^0.1.8",
+  "_id": "gydo-js@0.1.8",
   "_inBundle": false,
   "_integrity": "sha512-n6uRqDk1vlsoWR1Qf/gfUeuT96ydQWo/j/Gge6YkBGIXYCR4KgSeue8raZaB9rRmopEu7JjndkZt/VYSr4LqFg==",
   "_location": "/gydo-js",
@@ -8,12 +8,12 @@
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "gydo-js@^0.1.6",
+    "raw": "gydo-js@^0.1.8",
     "name": "gydo-js",
     "escapedName": "gydo-js",
-    "rawSpec": "^0.1.6",
+    "rawSpec": "^0.1.8",
     "saveSpec": null,
-    "fetchSpec": "^0.1.6"
+    "fetchSpec": "^0.1.8"
   },
   "_requiredBy": [
     "#USER",
@@ -28,7 +28,7 @@
   "bundleDependencies": false,
   "dependencies": {
     "discord.js": "^12.5.1",
-    "gydo-js": "0.1.7"
+    "gydo-js": "0.1.8"
   },
   "deprecated": false,
   "description": "'gydo-js' is a form of discord.js designed to simplify the process of creating a Discord bot.",
@@ -38,5 +38,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.7"
+  "version": "0.1.8"
 }
