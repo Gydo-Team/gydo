@@ -9,6 +9,6 @@
     "MemberLog" : {
       "serverid": "guildID",
       "memberleavejoin": "CHANNEL ID",
-      "JoinMessage": "Welcome {author} to **{server)**"
+      "JoinMessage": "Welcome {author} to **{server}**"
     }
 }
