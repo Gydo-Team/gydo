@@ -1,6 +1,6 @@
 {
   "name": "@gamingroos/gydo-js",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "description": "Our package \"gydo-js\" is to help aid Discord bot developers into making their bot with a simplified version of \"discord.js\". ",
   "main": "index.js",
   "scripts": {
