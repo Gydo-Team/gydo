@@ -17,4 +17,4 @@ https://gydo.gitbook.io/gydo-js/
 
 ## Have questions?
 Join our Discord server!
-https://discord.gg/8nE6BRSuS7
+https://discord.gg/wGWWCvHU6s
