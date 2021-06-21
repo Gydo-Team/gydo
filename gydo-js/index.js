@@ -1,3 +1,4 @@
+/*
 const { TeamMember } = require('discord.js')
 const Discord = require('Discord.js')
 const Gydo = new Discord.Client()
@@ -139,3 +140,12 @@ client.on('guildMemberRemove', member => {
 channel.send(`Sad to see you leave ${member}.`);
   }
 });
+*/
+
+const discord = require('discord.js');
+const fs = require('fs');
+const client = new discord.Client();
+
+const main = require('./handler/main');
+
+module.exports = main
