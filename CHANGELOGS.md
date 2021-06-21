@@ -3,7 +3,11 @@
 ### Gydo-JS Website (Change Logs Page)
 https://gydo.gitbook.io/gydo-js/start/change-log
 
-### Gydo 0.1.8 (Currect Version)
+### Gydo 1.0.0 (Current Version)
+You now don't need to edit a JSON file! (Go to README.md for more Info)
+and the version jumped to v1! Which means Gydo isn't in beta anymore!
+
+### Gydo 0.1.8 
 Fixed a bug in the index.js searching for a file named "gydo-js-TEST"
 All should be fixed now and you may resume using the package.
 
