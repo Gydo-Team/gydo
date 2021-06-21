@@ -1,19 +1,19 @@
 {
-  "_from": "gydo-js@^0.1.8",
-  "_id": "gydo-js@0.1.8",
+  "_from": "gydo-js",
+  "_id": "gydo-js@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-n6uRqDk1vlsoWR1Qf/gfUeuT96ydQWo/j/Gge6YkBGIXYCR4KgSeue8raZaB9rRmopEu7JjndkZt/VYSr4LqFg==",
   "_location": "/gydo-js",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "tag",
     "registry": true,
-    "raw": "gydo-js@^0.1.8",
+    "raw": "gydo-js",
     "name": "gydo-js",
     "escapedName": "gydo-js",
-    "rawSpec": "^0.1.8",
+    "rawSpec": "",
     "saveSpec": null,
-    "fetchSpec": "^0.1.8"
+    "fetchSpec": "latest"
   },
   "_requiredBy": [
     "#USER",
@@ -22,12 +22,13 @@
   ],
   "_resolved": "https://registry.npmjs.org/gydo-js/-/gydo-js-0.1.7.tgz",
   "_shasum": "e596e099780f7e3cf3ff7702cfbb35af8d00bf32",
-  "_spec": "gydo-js@^0.1.6",
-  "_where": "C:\\Users\\Ethan\\Desktop\\test",
+  "_spec": "gydo-js",
+  "_where": "C:\\Users\\lachl\\gydo-js",
   "author": "",
   "bundleDependencies": false,
   "dependencies": {
     "discord.js": "^12.5.1",
+    "dotenv": "^10.0.0",
     "gydo-js": "0.1.8"
   },
   "deprecated": false,
@@ -38,5 +39,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.8"
+  "version": "1.0.0"
 }
