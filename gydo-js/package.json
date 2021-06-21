@@ -29,7 +29,7 @@
   "dependencies": {
     "discord.js": "^12.5.1",
     "dotenv": "^10.0.0",
-    "gydo-js": "0.1.8"
+    "gydo-js": "1.0.0"
   },
   "deprecated": false,
   "description": "'gydo-js' is a form of discord.js designed to simplify the process of creating a Discord bot.",
