@@ -1,4 +1,4 @@
-# Gydo-JS v0.l.9
+# Gydo-JS v0.1.9
 
 This project is still in beta! So you might encounter some bugs! Please report the bugs on our discord server.
 
