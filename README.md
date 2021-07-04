@@ -14,7 +14,7 @@ npm i gydo-js
 
 ```js
 const gydo = require('gydo-js');
-const bot = new bot({
+const bot = new gydo({
     token: "<TOKEN HERE>",
     prefix: ['<PREFIX>']
 });
