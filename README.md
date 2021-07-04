@@ -22,6 +22,8 @@ const bot = new bot({
 
 ## Ping Command, Welcome Message, and a Leave Messsage
 
+### ⚠️ THIS ONE IS BUGGY IT MIGHT NOT WORK
+
 ### Leave Message
 
 ```js
