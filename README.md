@@ -12,7 +12,7 @@ npm i gydo-js
 
 # Setup
 
-```
+```js
 const gydo = require('gydo-js');
 const bot = new bot({
     token: "<TOKEN HERE>",
@@ -24,7 +24,7 @@ const bot = new bot({
 
 ### Leave Message
 
-```
+```js
   bot.guildMemberRemove({
       channel: "<CHANNEL ID>"
   })
@@ -34,7 +34,7 @@ const bot = new bot({
 
 This one is at beta, so it might not work at the moment.
 
-```
+```js
   bot.guildMemberAdd({
       message: "<Welcome Message>", // Can do %member for members tag
       channel: "<CHANNEL ID>"
@@ -42,10 +42,9 @@ This one is at beta, so it might not work at the moment.
 ```
 
 ## Documentation, How to Setup, and Change Logs
-https://gydo.gitbook.io/gydo-js/
+[Documentation](https://gydo.gitbook.io/gydo-js/)
 
 
 
 ## Have questions?
-Join our Discord server!
-https://discord.gg/wGWWCvHU6s
+[Join our Discord server!](https://discord.gg/wGWWCvHU6s)
