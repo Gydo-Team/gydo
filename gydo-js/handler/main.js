@@ -14,7 +14,7 @@ class gydo {
 
         client.login(this.token);
         client.on('ready', async () => {
-            console.log(`Bot is Ready! | Logged in as ${client.user.tag}`)
+            console.log(`Bot is Ready! | Logged in as ${client.user.tag} ;)`)
         });
     }
     ping() {
